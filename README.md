@@ -68,7 +68,7 @@ This project demonstrates the core skills tested by companies like **TCS, Wipro,
 
 ## 📊 Excel Dashboard Preview
 
-![Coffee Sales Dashboard](Screenshots/dashboard.png)
+![Coffee Sales Dashboard]("C:\Users\alubh\Music\coffee sales\Screenshot 2026-05-02 160607.png")
 
 **Dashboard includes:**
 - 4 KPI metric cards — Total Revenue, Orders, Customers, Avg Order Value
